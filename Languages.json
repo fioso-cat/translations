@@ -1,0 +1,434 @@
+{
+  "af-ZA": {
+    "LanguageTag": "af-ZA",
+    "NativeName": "Afrikaans",
+    "EnglishName": "Afrikaans",
+    "Country": "South Africa"
+  },
+  "am-ET": {
+    "LanguageTag": "am-ET",
+    "NativeName": "አማርኛ",
+    "EnglishName": "Amharic",
+    "Country": "Ethiopia"
+  },
+  "ar-SA": {
+    "LanguageTag": "ar-SA",
+    "NativeName": "العربية",
+    "EnglishName": "Arabic",
+    "Country": "Saudi Arabia"
+  },
+  "as-IN": {
+    "LanguageTag": "as-IN",
+    "NativeName": "অসমীয়া",
+    "EnglishName": "Assamese",
+    "Country": "India"
+  },
+  "az-AZ": {
+    "LanguageTag": "az-AZ",
+    "NativeName": "Azərbaycanca",
+    "EnglishName": "Azerbaijani",
+    "Country": "Azerbaijan"
+  },
+  "be-BY": {
+    "LanguageTag": "be-BY",
+    "NativeName": "Беларуская",
+    "EnglishName": "Belarusian",
+    "Country": "Belarus"
+  },
+  "bg-BG": {
+    "LanguageTag": "bg-BG",
+    "NativeName": "Български",
+    "EnglishName": "Bulgarian",
+    "Country": "Bulgaria"
+  },
+  "bn-BD": {
+    "LanguageTag": "bn-BD",
+    "NativeName": "বাংলা",
+    "EnglishName": "Bengali",
+    "Country": "Bangladesh"
+  },
+  "bs-BA": {
+    "LanguageTag": "bs-BA",
+    "NativeName": "Bosanski",
+    "EnglishName": "Bosnian",
+    "Country": "Bosnia and Herzegovina"
+  },
+  "ca-ES": {
+    "LanguageTag": "ca-ES",
+    "NativeName": "Català",
+    "EnglishName": "Catalan",
+    "Country": "Spain"
+  },
+  "cs-CZ": {
+    "LanguageTag": "cs-CZ",
+    "NativeName": "Čeština",
+    "EnglishName": "Czech",
+    "Country": "Czech Republic"
+  },
+  "da-DK": {
+    "LanguageTag": "da-DK",
+    "NativeName": "Dansk",
+    "EnglishName": "Danish",
+    "Country": "Denmark"
+  },
+  "de-DE": {
+    "LanguageTag": "de-DE",
+    "NativeName": "Deutsch",
+    "EnglishName": "German",
+    "Country": "Germany"
+  },
+  "el-GR": {
+    "LanguageTag": "el-GR",
+    "NativeName": "Ελληνικά",
+    "EnglishName": "Greek",
+    "Country": "Greece"
+  },
+  "en-GB": {
+    "LanguageTag": "en-GB",
+    "NativeName": "English",
+    "EnglishName": "English (UK)",
+    "Country": "United Kingdom"
+  },
+  "en-US": {
+    "LanguageTag": "en-US",
+    "NativeName": "English",
+    "EnglishName": "English (US)",
+    "Country": "United States"
+  },
+  "es-ES": {
+    "LanguageTag": "es-ES",
+    "NativeName": "Español",
+    "EnglishName": "Spanish (Spain)",
+    "Country": "Spain"
+  },
+  "es-MX": {
+    "LanguageTag": "es-MX",
+    "NativeName": "Español",
+    "EnglishName": "Spanish (Mexico)",
+    "Country": "Mexico"
+  },
+  "et-EE": {
+    "LanguageTag": "et-EE",
+    "NativeName": "Eesti",
+    "EnglishName": "Estonian",
+    "Country": "Estonia"
+  },
+  "fa-IR": {
+    "LanguageTag": "fa-IR",
+    "NativeName": "فارسی",
+    "EnglishName": "Persian",
+    "Country": "Iran"
+  },
+  "fi-FI": {
+    "LanguageTag": "fi-FI",
+    "NativeName": "Suomi",
+    "EnglishName": "Finnish",
+    "Country": "Finland"
+  },
+  "fr-FR": {
+    "LanguageTag": "fr-FR",
+    "NativeName": "Français",
+    "EnglishName": "French",
+    "Country": "France"
+  },
+  "gu-IN": {
+    "LanguageTag": "gu-IN",
+    "NativeName": "ગુજરાતી",
+    "EnglishName": "Gujarati",
+    "Country": "India"
+  },
+  "he-IL": {
+    "LanguageTag": "he-IL",
+    "NativeName": "עברית",
+    "EnglishName": "Hebrew",
+    "Country": "Israel"
+  },
+  "hi-IN": {
+    "LanguageTag": "hi-IN",
+    "NativeName": "हिन्दी",
+    "EnglishName": "Hindi",
+    "Country": "India"
+  },
+  "hr-HR": {
+    "LanguageTag": "hr-HR",
+    "NativeName": "Hrvatski",
+    "EnglishName": "Croatian",
+    "Country": "Croatia"
+  },
+  "hu-HU": {
+    "LanguageTag": "hu-HU",
+    "NativeName": "Magyar",
+    "EnglishName": "Hungarian",
+    "Country": "Hungary"
+  },
+  "hy-AM": {
+    "LanguageTag": "hy-AM",
+    "NativeName": "Հայերեն",
+    "EnglishName": "Armenian",
+    "Country": "Armenia"
+  },
+  "id-ID": {
+    "LanguageTag": "id-ID",
+    "NativeName": "Bahasa Indonesia",
+    "EnglishName": "Indonesian",
+    "Country": "Indonesia"
+  },
+  "is-IS": {
+    "LanguageTag": "is-IS",
+    "NativeName": "Íslenska",
+    "EnglishName": "Icelandic",
+    "Country": "Iceland"
+  },
+  "it-IT": {
+    "LanguageTag": "it-IT",
+    "NativeName": "Italiano",
+    "EnglishName": "Italian",
+    "Country": "Italy"
+  },
+  "ja-JP": {
+    "LanguageTag": "ja-JP",
+    "NativeName": "日本語",
+    "EnglishName": "Japanese",
+    "Country": "Japan"
+  },
+  "ka-GE": {
+    "LanguageTag": "ka-GE",
+    "NativeName": "ქართული",
+    "EnglishName": "Georgian",
+    "Country": "Georgia"
+  },
+  "kk-KZ": {
+    "LanguageTag": "kk-KZ",
+    "NativeName": "Қазақша",
+    "EnglishName": "Kazakh",
+    "Country": "Kazakhstan"
+  },
+  "km-KH": {
+    "LanguageTag": "km-KH",
+    "NativeName": "ខ្មែរ",
+    "EnglishName": "Khmer",
+    "Country": "Cambodia"
+  },
+  "kn-IN": {
+    "LanguageTag": "kn-IN",
+    "NativeName": "ಕನ್ನಡ",
+    "EnglishName": "Kannada",
+    "Country": "India"
+  },
+  "ko-KR": {
+    "LanguageTag": "ko-KR",
+    "NativeName": "한국어",
+    "EnglishName": "Korean",
+    "Country": "South Korea"
+  },
+  "lo-LA": {
+    "LanguageTag": "lo-LA",
+    "NativeName": "ລາວ",
+    "EnglishName": "Lao",
+    "Country": "Laos"
+  },
+  "lt-LT": {
+    "LanguageTag": "lt-LT",
+    "NativeName": "Lietuvių",
+    "EnglishName": "Lithuanian",
+    "Country": "Lithuania"
+  },
+  "lv-LV": {
+    "LanguageTag": "lv-LV",
+    "NativeName": "Latviešu",
+    "EnglishName": "Latvian",
+    "Country": "Latvia"
+  },
+  "mk-MK": {
+    "LanguageTag": "mk-MK",
+    "NativeName": "Македонски",
+    "EnglishName": "Macedonian",
+    "Country": "North Macedonia"
+  },
+  "ml-IN": {
+    "LanguageTag": "ml-IN",
+    "NativeName": "മലയാളം",
+    "EnglishName": "Malayalam",
+    "Country": "India"
+  },
+  "mn-MN": {
+    "LanguageTag": "mn-MN",
+    "NativeName": "Монгол",
+    "EnglishName": "Mongolian",
+    "Country": "Mongolia"
+  },
+  "mr-IN": {
+    "LanguageTag": "mr-IN",
+    "NativeName": "मराठी",
+    "EnglishName": "Marathi",
+    "Country": "India"
+  },
+  "ms-MY": {
+    "LanguageTag": "ms-MY",
+    "NativeName": "Bahasa Melayu",
+    "EnglishName": "Malay",
+    "Country": "Malaysia"
+  },
+  "mt-MT": {
+    "LanguageTag": "mt-MT",
+    "NativeName": "Malti",
+    "EnglishName": "Maltese",
+    "Country": "Malta"
+  },
+  "my-MM": {
+    "LanguageTag": "my-MM",
+    "NativeName": "မြန်မာစာ",
+    "EnglishName": "Burmese",
+    "Country": "Myanmar"
+  },
+  "ne-NP": {
+    "LanguageTag": "ne-NP",
+    "NativeName": "नेपाली",
+    "EnglishName": "Nepali",
+    "Country": "Nepal"
+  },
+  "nl-NL": {
+    "LanguageTag": "nl-NL",
+    "NativeName": "Nederlands",
+    "EnglishName": "Dutch",
+    "Country": "Netherlands"
+  },
+  "no-NO": {
+    "LanguageTag": "no-NO",
+    "NativeName": "Norsk",
+    "EnglishName": "Norwegian",
+    "Country": "Norway"
+  },
+  "pa-IN": {
+    "LanguageTag": "pa-IN",
+    "NativeName": "ਪੰਜਾਬੀ",
+    "EnglishName": "Punjabi",
+    "Country": "India"
+  },
+  "pl-PL": {
+    "LanguageTag": "pl-PL",
+    "NativeName": "Polski",
+    "EnglishName": "Polish",
+    "Country": "Poland"
+  },
+  "pt-BR": {
+    "LanguageTag": "pt-BR",
+    "NativeName": "Português",
+    "EnglishName": "Portuguese (Brazil)",
+    "Country": "Brazil"
+  },
+  "pt-PT": {
+    "LanguageTag": "pt-PT",
+    "NativeName": "Português",
+    "EnglishName": "Portuguese (Portugal)",
+    "Country": "Portugal"
+  },
+  "ro-RO": {
+    "LanguageTag": "ro-RO",
+    "NativeName": "Română",
+    "EnglishName": "Romanian",
+    "Country": "Romania"
+  },
+  "ru-RU": {
+    "LanguageTag": "ru-RU",
+    "NativeName": "Русский",
+    "EnglishName": "Russian",
+    "Country": "Russia"
+  },
+  "sk-SK": {
+    "LanguageTag": "sk-SK",
+    "NativeName": "Slovenčina",
+    "EnglishName": "Slovak",
+    "Country": "Slovakia"
+  },
+  "sl-SI": {
+    "LanguageTag": "sl-SI",
+    "NativeName": "Slovenščina",
+    "EnglishName": "Slovenian",
+    "Country": "Slovenia"
+  },
+  "sq-AL": {
+    "LanguageTag": "sq-AL",
+    "NativeName": "Shqip",
+    "EnglishName": "Albanian",
+    "Country": "Albania"
+  },
+  "sr-RS": {
+    "LanguageTag": "sr-RS",
+    "NativeName": "Српски",
+    "EnglishName": "Serbian",
+    "Country": "Serbia"
+  },
+  "sv-SE": {
+    "LanguageTag": "sv-SE",
+    "NativeName": "Svenska",
+    "EnglishName": "Swedish",
+    "Country": "Sweden"
+  },
+  "sw-KE": {
+    "LanguageTag": "sw-KE",
+    "NativeName": "Kiswahili",
+    "EnglishName": "Swahili",
+    "Country": "Kenya"
+  },
+  "ta-IN": {
+    "LanguageTag": "ta-IN",
+    "NativeName": "தமிழ்",
+    "EnglishName": "Tamil",
+    "Country": "India"
+  },
+  "te-IN": {
+    "LanguageTag": "te-IN",
+    "NativeName": "తెలుగు",
+    "EnglishName": "Telugu",
+    "Country": "India"
+  },
+  "th-TH": {
+    "LanguageTag": "th-TH",
+    "NativeName": "ไทย",
+    "EnglishName": "Thai",
+    "Country": "Thailand"
+  },
+  "tr-TR": {
+    "LanguageTag": "tr-TR",
+    "NativeName": "Türkçe",
+    "EnglishName": "Turkish",
+    "Country": "Turkey"
+  },
+  "uk-UA": {
+    "LanguageTag": "uk-UA",
+    "NativeName": "Українська",
+    "EnglishName": "Ukrainian",
+    "Country": "Ukraine"
+  },
+  "ur-PK": {
+    "LanguageTag": "ur-PK",
+    "NativeName": "اردو",
+    "EnglishName": "Urdu",
+    "Country": "Pakistan"
+  },
+  "uz-UZ": {
+    "LanguageTag": "uz-UZ",
+    "NativeName": "O'zbekcha",
+    "EnglishName": "Uzbek",
+    "Country": "Uzbekistan"
+  },
+  "vi-VN": {
+    "LanguageTag": "vi-VN",
+    "NativeName": "Tiếng Việt",
+    "EnglishName": "Vietnamese",
+    "Country": "Vietnam"
+  },
+  "zh-Hans": {
+    "LanguageTag": "zh-Hans",
+    "NativeName": "简体中文",
+    "EnglishName": "Chinese (Simplified)",
+    "Country": "China"
+  },
+  "zh-Hant": {
+    "LanguageTag": "zh-Hant",
+    "NativeName": "繁體中文",
+    "EnglishName": "Chinese (Traditional)",
+    "Country": "Taiwan"
+  }
+}
