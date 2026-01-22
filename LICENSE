@@ -1,16 +1,34 @@
 MIT License
-
-Copyright (c) 2026 fioso-cat
+Copyright (c) 2026 Fioso. All rights reserved. Portions of this software were generated and optimized with the assistance of Gemini (A.I).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+furnished to do so, subject to the following SPECIAL CONDITIONS:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+--- SPECIAL CONDITIONS ---
+
+1. OWNERSHIP & USAGE: 
+   You may possess and use this software for private and personal use. 
+   The primary and intended purpose of this software is for data management 
+   within the "Voidware Hub" ecosystem.
+
+2. MANDATORY CREDITS: 
+   Any person or entity using, forking, or redistributing this software 
+   MUST provide clear and visible attribution. The credit line must state:
+   "Credit: Gemini & Fioso"
+
+3. CLONING & REPOSITORY ACCESS:
+   - Rights to clone or fork this repository are EXCLUSIVELY granted to the 
+     user "Erchobg" (https://github.com/Erchobg) or the Organization 
+     "VapeVoidware" (https://github.com/VapeVoidware).
+   - EXCEPTION: For all other users, this restriction is waived ONLY if 
+     clear and visible Credits (as defined in Condition 2) are provided 
+     prior to or during the cloning/forking process for personal use.
+
+--- END OF SPECIAL CONDITIONS ---
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
